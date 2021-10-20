@@ -19,7 +19,7 @@
 <code><img alt="Material" title="Material" src="https://github.com/alexguja/alexguja/blob/main/icons/material.png" height="22"></code>
 <code><img alt="Bootstrap" title="Bootstrap" src="https://github.com/alexguja/alexguja/blob/main/icons/bootstrap.png" height="22"></code>
 <code><img alt="Firebase" title="Firebase" src="https://github.com/alexguja/alexguja/blob/main/icons/firebase.png" height="22"></code>
-<code><img alt="Go" title="Go" src="https://github.com/alexguja/alexguja/blob/main/icons/go.png" height="22"></code>
+<code><img alt="Go" title="Go" src="https://github.com/alexguja/alexguja/blob/main/icons/go.png" height="18"></code>
 <code><img alt="Python" title="Python" src="https://github.com/alexguja/alexguja/blob/main/icons/python.png" height="22"></code>
 
 
