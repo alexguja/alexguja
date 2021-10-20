@@ -1,5 +1,3 @@
-[![Banner][banner-img]][banner-link]
-
 <h2>About Me</h2>
 
 <p align="justify">I am a NodeJS developer with 11 years of coding experience.</p>
@@ -11,10 +9,6 @@
 <p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES11. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
 
 ## My Skills
-
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&hide=c,meson,makefile,python,m4" alt="cheesits456's Top Languages" align="right" width="330">
-
-![cheesits456's GitHub Stats][github-stats-img]
 
 ### Languages/Frameworks I'm good at:
 
@@ -47,8 +41,6 @@
 <code><a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a></code>
 <code><a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a></code>
 <code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
-
-
 
 
 
