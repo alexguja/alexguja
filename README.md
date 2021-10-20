@@ -1,9 +1,13 @@
 ## About Me
+Hi there! 👋
 
+ - I'm a Software Engineer based in Europe. 🇪🇺
+ - I'm currently working on a full-stack web app for contract automation. ⚙️
+ - Also preparing for the AWS Associate Developer Exam 📚
 
 ## My Skills
 
-### Languages/Frameworks I'm good at:
+### Technologies I'm good at:
 
 <code><img alt="HTML" title="HTML" src="https://github.com/alexguja/alexguja/blob/main/icons/html.png" height="22"></code>
 <code><img alt="CSS" title="CSS" src="https://github.com/alexguja/alexguja/blob/main/icons/css.png" height="22"></code>
