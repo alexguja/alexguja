@@ -3,7 +3,7 @@ Hi there! 👋
 
  - I'm a Software Engineer based in Europe. 🇪🇺
  - I'm currently working on a full-stack web app for contract automation. ⚙️
- - Also preparing for the AWS Associate Developer Exam 📚
+<!--  - Also preparing for the AWS Associate Developer Exam 📚 -->
 
 ## My Skills
 
